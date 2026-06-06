@@ -1,5 +1,7 @@
 # Pixel Diffusion Model
 
+![GitHub top language](https://img.shields.io/github/languages/top/Jalpan04/Pixel-Diffusion-Model) ![GitHub repo size](https://img.shields.io/github/repo-size/Jalpan04/Pixel-Diffusion-Model) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
